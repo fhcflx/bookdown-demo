@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210) (preloaded format=xelatex 2017.4.6)  3 JUN 2017 11:48
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210) (preloaded format=xelatex 2017.4.6)  3 JUN 2017 12:13
 entering extended mode
 **./bookdown-demo.tex
 (bookdown-demo.tex
@@ -786,14 +786,6 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip60
 \thanksmargin=\skip61
 \droptitle=\skip62
-) (C:\Users\anthonyd\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\ragged2e.sty
-Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
-
-LaTeX Warning: Command \@arrayparboxrestore  has changed.
-               Check if current package is valid.
-
-(C:\Users\anthonyd\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everysel.sty
-Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 ) (C:\Users\anthonyd\AppData\Roaming\MiKTeX\2.9\tex\latex\footmisc\footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
 \FN@temptoken=\toks25
@@ -807,6 +799,14 @@ Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
 Package footmisc Info: Declaring symbol style lamport* on input line 903.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 .
+) (C:\Users\anthonyd\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+LaTeX Warning: Command \@arrayparboxrestore  has changed.
+               Check if current package is valid.
+
+(C:\Users\anthonyd\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip63
 \RaggedLeftLeftskip=\skip64
@@ -1074,7 +1074,7 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 297.
 Here is how much of TeX's memory you used:
  22645 strings out of 427899
  404611 string characters out of 3151984
- 527076 words of memory out of 3000000
+ 527092 words of memory out of 3000000
  26298 multiletter control sequences out of 15000+200000
  16656 words of font info for 44 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191

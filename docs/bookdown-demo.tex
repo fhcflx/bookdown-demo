@@ -79,7 +79,7 @@
 \makeatother
 % Scale images if necessary, so that they will not overflow the page
 % margins by default, and it is still possible to overwrite the defaults
-% using explicit options in \includegraphics[width, height, ...]{}
+% using explicit options in \includegraphics[fbox,width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
 \IfFileExists{parskip.sty}{%
 \usepackage{parskip}
@@ -152,6 +152,19 @@
 \rfoot{The Kaiser Family Foundation and Health Research Education Trust / Page \thepage}
 }
 
+\renewcommand{\chaptername}{Section}
+
+\usepackage{amsthm}
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{lemma}{Lemma}[chapter]
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[chapter]
+\newtheorem{corollary}{Corollary}[chapter]
+\newtheorem{proposition}{Proposition}[chapter]
+\theoremstyle{definition}
+\newtheorem{example}{Example}[chapter]
+\theoremstyle{remark}
+\newtheorem*{remark}{Remark}
 \begin{document}
 \maketitle
 
@@ -198,7 +211,7 @@ Figures and tables with captions will be placed in \texttt{figure} and
 
 \begin{figure}
 
-{\centering \includegraphics[width=0.8\linewidth]{bookdown-demo_files/figure-latex/nice-fig-1} 
+{\centering \includegraphics[fbox,width=0.8\linewidth]{bookdown-demo_files/figure-latex/nice-fig-1} 
 
 }
 

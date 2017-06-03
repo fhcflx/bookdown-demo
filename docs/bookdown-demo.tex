@@ -138,6 +138,20 @@
 \setlength{\RaggedRightRightskip}{0pt plus 2.8em}
 \usepackage[export]{adjustbox}
 
+
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+\chead{\leftmark}
+\rfoot{The Kaiser Family Foundation and Health Research Education Trust / Page \thepage}
+
+\fancypagestyle{plain}{
+\fancyhf{}
+\chead{\leftmark}
+\rfoot{The Kaiser Family Foundation and Health Research Education Trust / Page \thepage}
+}
+
 \begin{document}
 \maketitle
 

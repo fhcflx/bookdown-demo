@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210) (preloaded format=xelatex 2017.4.6)  7 JUN 2017 13:54
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210) (preloaded format=xelatex 2017.4.6)  7 JUN 2017 16:29
 entering extended mode
 **./bookdown-demo.tex
 (bookdown-demo.tex
@@ -922,32 +922,32 @@ File: ppxetex.def 2017/01/14 v0.5h Pdfpages driver for XeTeX (AM)
 (bookdown-demo.aux)
 \openout1 = `bookdown-demo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 173.
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 173.
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 173.
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 173.
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 173.
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 173.
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 173.
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 173.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 173.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 172.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 172.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 173.
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 173.
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Info: Redefining \microtypecontext on input line 173.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Info: Redefining \microtypecontext on input line 172.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: No adjustment of tracking.
@@ -993,7 +993,7 @@ ern Roman (RS)
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring OFF on input line 173.
+Package hyperref Info: Link coloring OFF on input line 172.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
@@ -1001,16 +1001,16 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count191
 )
-LaTeX Info: Redefining \ref on input line 173.
-LaTeX Info: Redefining \pageref on input line 173.
-LaTeX Info: Redefining \nameref on input line 173.
+LaTeX Info: Redefining \ref on input line 172.
+LaTeX Info: Redefining \pageref on input line 172.
+LaTeX Info: Redefining \nameref on input line 172.
 (bookdown-demo.out) (bookdown-demo.out)
 \@outlinefile=\write4
 \openout4 = `bookdown-demo.out'.
 
-Package ragged2e Info: ABD: executing \RaggedRight on input line 173.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 172.
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 173.
+LaTeX Info: Redefining \selectfont on input line 172.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
@@ -1065,6 +1065,83 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 \tf@toc=\write5
 \openout5 = `bookdown-demo.toc'.
 
+.................................................
+. fontspec info: "set-scale"
+. 
+. Comic Sans MS scale = 0.7988122171945701.
+.................................................
+\g__fontspec_family_ComicSansMS_int=\count192
+.................................................
+. fontspec info: "set-scale"
+. 
+. Comic Sans MS scale = 0.7988122171945701.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Comic Sans MS scale = 0.7988122171945701.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Comic Sans MS/B scale = 0.7988122171945701.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Comic Sans MS/B scale = 0.7988122171945701.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Comic Sans MS/I scale = 0.7988122171945701.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Comic Sans MS/I scale = 0.7988122171945701.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Comic Sans MS/BI scale = 0.7988122171945701.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Comic Sans MS/BI scale = 0.7988122171945701.
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'ComicSansMS(0)' created for font 'Comic Sans MS' with options
+. [Ligatures=TeX,Scale=MatchLowercase,Ligatures=TeX].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->s*[0.7988122171945701]"Comic Sans
+. MS/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: <->s*[0.7988122171945701]"Comic Sans
+. MS/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"
+. - 'bold' (bx/n) with NFSS spec.: <->s*[0.7988122171945701]"Comic Sans
+. MS/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.:
+. <->s*[0.7988122171945701]"Comic Sans
+. MS/B/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"
+. - 'italic' (m/it) with NFSS spec.: <->s*[0.7988122171945701]"Comic Sans
+. MS/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. <->s*[0.7988122171945701]"Comic Sans
+. MS/I/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"
+. - 'bold italic' (bx/it) with NFSS spec.: <->s*[0.7988122171945701]"Comic
+. Sans MS/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+. <->s*[0.7988122171945701]"Comic Sans
+. MS/BI/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"
+.................................................
+LaTeX Info: Redefining \rmfamily on input line 179.
+LaTeX Font Info:    Font shape `TU/ComicSansMS(0)/m/n' will be
+(Font)              scaled to size 7.98813pt on input line 179.
 File: pdf page to insert.pdf Graphic file (type QTm)
 <use  "pdf page to insert.pdf" >
 File: pdf page to insert.pdf Graphic file (type QTm)
@@ -1079,16 +1156,24 @@ File: pdf page to insert.pdf Graphic file (type QTm)
 <use  "pdf page to insert.pdf"  page1>
 File: pdf page to insert.pdf Graphic file (type QTm)
 <use  "pdf page to insert.pdf"  page1> [4]
-Section 1.
+Chapter 1.
+LaTeX Font Info:    Font shape `TU/ComicSansMS(0)/m/n' will be
+(Font)              scaled to size 16.56738pt on input line 183.
+LaTeX Font Info:    Font shape `TU/ComicSansMS(0)/bx/n' will be
+(Font)              scaled to size 16.56738pt on input line 183.
+LaTeX Font Info:    Font shape `TU/ComicSansMS(0)/bx/n' will be
+(Font)              scaled to size 19.87447pt on input line 183.
+LaTeX Font Info:    Font shape `TU/ComicSansMS(0)/bx/n' will be
+(Font)              scaled to size 7.98813pt on input line 185.
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 193.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 194.
 [5
 
 ] [6
 
 ]
-Section 2.
-LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 215
+Chapter 2.
+LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 216
 .
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ts1lmtt.fd"
 File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1096,44 +1181,51 @@ File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 File: bookdown-demo_files/figure-latex/nice-fig-1.pdf Graphic file (type QTm)
 <use  "bookdown-demo_files/figure-latex/nice-fig-1.pdf" >
 
-LaTeX Warning: Reference `fig:nice-fig' on page 7 undefined on input line 222.
+LaTeX Warning: Reference `fig:nice-fig' on page 7 undefined on input line 223.
 
 [7] [8]
-Section 3.
+Chapter 3.
 [9
 
 ] [10
 
 ]
-Section 4.
+Chapter 4.
 [11] [12
 
 ]
-Section 5.
+Chapter 5.
+LaTeX Font Info:    Font shape `TU/ComicSansMS(0)/m/n' will be
+(Font)              scaled to size 11.5029pt on input line 287.
+LaTeX Font Info:    Font shape `TU/ComicSansMS(0)/bx/n' will be
+(Font)              scaled to size 11.5029pt on input line 287.
 [13] [14
 
 ]
-Section 6.
+Chapter 6.
 (bookdown-demo.bbl [15] [16
 
-])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 297.
+]
+LaTeX Font Info:    Font shape `TU/ComicSansMS(0)/m/n' will be
+(Font)              scaled to size 19.87447pt on input line 1.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 298.
 [17]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 297.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 298.
 (bookdown-demo.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 297.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 297.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 298.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 298.
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 23368 strings out of 427899
- 415648 string characters out of 3151984
+ 23429 strings out of 427899
+ 417909 string characters out of 3151984
  540947 words of memory out of 3000000
- 26997 multiletter control sequences out of 15000+200000
- 16656 words of font info for 44 fonts, out of 3000000 for 9000
+ 27034 multiletter control sequences out of 15000+200000
+ 16736 words of font info for 54 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 41i,19n,68p,10413b,539s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,19n,117p,10413b,541s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on bookdown-demo.pdf (17 pages).

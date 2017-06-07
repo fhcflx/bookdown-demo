@@ -17,6 +17,8 @@ options(bookdown.post.latex =function(x) {
 })
 ```
 
+\setmainfont{Comic Sans MS}
+
 \includepdf[scale=1]{pdf page to insert.pdf}
 
 # Prerequisites

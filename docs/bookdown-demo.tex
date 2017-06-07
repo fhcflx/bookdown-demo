@@ -124,7 +124,9 @@
   \postauthor{\par}
   \predate{\centering\large\emph}
   \postdate{\par}
-  \date{2017-06-03}
+  \date{2017-06-07}
+
+
 
 \usepackage[hang,flushmargin]{footmisc} 
 \usepackage[document]{ragged2e}
@@ -154,6 +156,9 @@
 
 \renewcommand{\chaptername}{Section}
 
+
+\usepackage{pdfpages}
+
 \usepackage{amsthm}
 \newtheorem{theorem}{Theorem}[chapter]
 \newtheorem{lemma}{Lemma}[chapter]
@@ -172,6 +177,8 @@
 \setcounter{tocdepth}{1}
 \tableofcontents
 }
+\includepdf[scale=1]{pdf page to insert.pdf}
+
 \chapter{Prerequisites}\label{prerequisites}
 
 This is a \emph{sample} book written in \textbf{Markdown}. You can use

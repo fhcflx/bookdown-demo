@@ -5,6 +5,7 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
+mainfont: Comic Sans MS
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
@@ -16,8 +17,6 @@ options(bookdown.post.latex =function(x) {
  gsub('(?<=\\\\includegraphics\\[)', 'fbox,', x, perl = TRUE)
 })
 ```
-
-\setmainfont{Comic Sans MS}
 
 \includepdf[scale=1]{pdf page to insert.pdf}
 
